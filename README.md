@@ -1,11 +1,8 @@
-<h1>👋 Hello! I am Robert!</h1> 
+<h4>👋 Hello! I am Robert!</h4> 
 
-<h2>👨🏻‍💻 - I am a recent Full-Stack Web Development bootcamp grad! </h2>
-<h2>💡 - I enjoy taking on challenges, particularly in the frontend realm, where dynamic and fun solutions come to life through teamwork and creativity.</h2>
-<h2>📫 - You can find me on LinkedIn or email me directly!</h2>
-
-
-
+<li>👨🏻‍💻 - I am a recent Full-Stack Web Development bootcamp grad!</li>
+<li>💡 - I enjoy taking on challenges, particularly in the frontend realm, where dynamic and fun solutions come to life through teamwork and creativity.</li>
+<li>📫 - You can find me on LinkedIn or email me directly!</li>
 
 
 <!---
